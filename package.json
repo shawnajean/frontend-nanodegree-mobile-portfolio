@@ -1,0 +1,25 @@
+{
+  "name": "fend-p4-mobile-portfolio",
+  "version": "1.0.0",
+  "description": "Udacity Front-End Developer Nanodegree : Project 4",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.0",
+    "run-sequence": "^1.1.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawnajean/frontend-nanodegree-mobile-portfolio.git"
+  },
+  "author": "Shawna Jean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawnajean/frontend-nanodegree-mobile-portfolio/issues"
+  },
+  "homepage": "https://github.com/shawnajean/frontend-nanodegree-mobile-portfolio#readme"
+}
