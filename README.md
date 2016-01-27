@@ -2,7 +2,16 @@
 
 ### Getting Started
 
-You can find the webpage [here](/src/index.html).
+You can find the webpage [here](http://shawnajean.github.io/frontend-nanodegree-mobile-portfolio/src/index.html).
+
+###Optimizations
+
+* Media attributes for CSS files
+* Async attribute for JS files
+* Remove externally loaded font
+* Compress and resize Images
+* Fixed forced layout resets in updatePositions
+* Restructure changePizzaSizes
 
 ### Gulp
 
